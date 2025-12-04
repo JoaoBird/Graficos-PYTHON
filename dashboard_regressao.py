@@ -1262,3 +1262,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+#poderia separar em subarquivos para melhor organizacao
