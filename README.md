@@ -28,7 +28,7 @@ tabelinha.xlsx
 ---
 
 ### **3️⃣ Execute o relatório estático (opcional):**
-```bash
+```bash 
 python dashboard_regressao.py --report
 ```
 
@@ -41,7 +41,7 @@ streamlit run dashboard_regressao.py
 
 ---
 
-## 🧠 O que o script faz
+## 🧠 O que o script faz ??
 - Carrega e trata os dados automaticamente  
 - Faz análise estatística completa  
 - Executa:
